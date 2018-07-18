@@ -1,7 +1,7 @@
-# Node - Assigment 1
+# Node - Assigment 2 - Express
 ## Felipe Estrada
 
-### 1. ¨Project design
+### 1. Project design
 
 I generated the structure adviced with a store.js in order to access it from anywhere (comments.js and posts.js) in the code, i used morgan as logger and node-dev to simplify testing and dev. 
 
